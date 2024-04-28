@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Dr Diana Mudura
 subtitle: "About Dr Diana Mudura"
-email: blcentra@gmail.com
+# email: dianamu
 name: Diana Mudura
 description: >
   This website provides an overview of my career.
@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_nice.jpg"
-logo: "/assets/diana_logo.png"
+cover: "/assets/header_nice.jpeg"
+logo: "/assets/diana_logo.webp"
 
 # Build settings
 markdown: kramdown
@@ -78,7 +78,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: DianaMudura
+    username: Diana Mudura
     url: https://twitter.com/DianaMudura
     desc: Follow me on Twitter
     share: true
@@ -178,13 +178,10 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/diana_logo.webp"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/diana_logo.webp"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"

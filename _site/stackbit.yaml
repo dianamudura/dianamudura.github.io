@@ -29,7 +29,7 @@ models:
         name: name
         label: Author name
       - type: string
-        name: description
+        name: description 
         label: Description
       - type: string
         name: baseurl
