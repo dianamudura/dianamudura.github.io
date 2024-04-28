@@ -7,4 +7,4 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/diana_profile.jpeg "Profile Picture"){:.profile}
 
-Hi, I'm Diana!
+Hi, I'm Diana! PhD graduate in Literature...
